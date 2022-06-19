@@ -31,12 +31,14 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<p align="center">
 ### Welcome 👋
+</p>
 
 <!-- Greeting -->
 
 <div align="center">
-  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/Green%20Wallpaper.jpg" width="600" height="300"/>
+  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/Green%20Wallpaper.jpg" width="1000" height="400"/>
 </div>
 
 ---
