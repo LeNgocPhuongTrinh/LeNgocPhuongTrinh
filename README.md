@@ -77,3 +77,9 @@ I am an Enthusiast of Supply Chain, Data Analysis & Storytelling, and Automation
   <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/china.png" title="Chinese" alt="Chinese" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lengocphuongtrinh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
