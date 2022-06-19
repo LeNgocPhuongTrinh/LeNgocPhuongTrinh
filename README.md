@@ -68,8 +68,8 @@ I am an Enthusiast of Supply Chain, Data Analysis & Storytelling, and Automation
   <img src="https://www.flaticon.com/premium-icon/document_3825480?term=vba&page=1&position=1&page=1&position=1&related_id=3825480&origin=search" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" title="PowerQuery" alt="PowerQuery" width="40" height="40"/>&nbsp;
-  <img src="https://www.flaticon.com/free-icon/vietnam_197473?term=vietnam%20flag&page=1&position=2&page=1&position=2&related_id=197473&origin=search"  title="Vietnam" alt="Vietnam" width="40" height="40"/>&nbsp;
-  <img src="https://www.flaticon.com/free-icon/united-kingdom_197374?term=uk%20flag&page=1&position=1&page=1&position=1&related_id=197374&origin=search"  title="English" alt="English" width="40" height="40"/>&nbsp;
-  <img src="https://www.flaticon.com/free-icon/china_197375?term=chinese%20flag&page=1&position=1&page=1&position=1&related_id=197375&origin=search" title="Chinese" alt="Chinese" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/vietnam.png"  title="Vietnam" alt="Vietnam" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/united-kingdom.png"  title="English" alt="English" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/china.png" title="Chinese" alt="Chinese" width="40" height="40"/>&nbsp;
 </div>
 
