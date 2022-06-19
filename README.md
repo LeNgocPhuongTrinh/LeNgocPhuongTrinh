@@ -20,25 +20,27 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kayleetrinh99/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:lengocphuongtrinh.ftu2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white%22%20alt=%22Gmail%20Badge%22/"/>
-  </a>
-  <a href="https://lnptchinchin.wixsite.com/chinchin/">
-    <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kayleetrinh99/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:lengocphuongtrinh.ftu2@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white%22%20alt=%22Gmail%20Badge%22/"/>
+    </a>
+    <a href="https://lnptchinchin.wixsite.com/chinchin/" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </p> 
 </div>
 
-<p align="center">
-### Welcome 👋
-</p>
+<h1 align="center">
+Welcome 👋
+</h1>
 
 <!-- Greeting -->
 
 <div align="center">
-  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/Green%20Wallpaper.jpg" width="1000" height="400"/>
+  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/download.jpg" width="1000" height="400"/>
 </div>
 
 ---
@@ -52,12 +54,12 @@ I am an Enthusiast of Supply Chain, Data Analysis & Storytelling, and Automation
 
 - :maple_leaf: Interest in new and good-looking things
 
-- :seeding: Keeping on cultivating data analysis tools & skills
+- :seedling: Keeping on cultivating data analysis tools & skills
 
 - :mailbox: Reach out to me 
-  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayleetrinh99/)
-  [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](mailto:lengocphuongtrinh.ftu2@gmail.com)
-- :blossom: Blog (under construction) (https://www.flaticon.com/premium-icon/blogger_3669967?term=blog&page=1&position=21&page=1&position=21&related_id=3669967&origin=search)(https://lnptchinchin.wixsite.com/chinchin)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayleetrinh99/) 
+  [![Gmail Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lengocphuongtrinh.ftu2@gmail.com)
+- :blossom: Blog (under construction) [![Blog Badge](https://img.shields.io/badge/-Blog-blue?style=flat&logo=Twitter&logoColor=white)](https://lnptchinchin.wixsite.com/chinchin)
 
 ---
 
