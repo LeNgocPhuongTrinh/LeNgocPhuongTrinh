@@ -45,7 +45,7 @@ Welcome 👋
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
 I am an Enthusiast of Supply Chain, Data Analysis & Storytelling, and Automation.
