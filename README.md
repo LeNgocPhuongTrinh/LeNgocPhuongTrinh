@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!-- Greeting -->
 
 <div align="center">
-  <img src="https://pin.it/4cXtEXs" width="600" height="300" rotate ="90"/>
+  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/Green%20Wallpaper.jpg" width="600" height="300"/>
 </div>
 
 ---
@@ -65,7 +65,7 @@ I am an Enthusiast of Supply Chain, Data Analysis & Storytelling, and Automation
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-  <img src="https://www.flaticon.com/premium-icon/document_3825480?term=vba&page=1&position=1&page=1&position=1&related_id=3825480&origin=search" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/excel-vba.png" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" title="PowerQuery" alt="PowerQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/vietnam.png"  title="Vietnam" alt="Vietnam" width="40" height="40"/>&nbsp;
