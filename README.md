@@ -40,7 +40,7 @@ Welcome 👋
 <!-- Greeting -->
 
 <div align="center">
-  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/download.jpg" width="1000" height="400"/>
+  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/Mint%20Chocolate%20Chip%20Macarons.jpg" width="1000" height="400"/>
 </div>
 
 ---
