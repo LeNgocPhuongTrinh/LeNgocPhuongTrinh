@@ -33,6 +33,10 @@ Here are some ideas to get you started:
   </p> 
 </div>
 
+<div id="viewcounter">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
 <h1 align="center">
 Welcome 👋
 </h1>
