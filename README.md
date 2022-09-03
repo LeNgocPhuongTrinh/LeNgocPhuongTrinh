@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 </div>
 
 <div id="viewcounter">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+   <p align="center">
+     <img src="https://komarev.com/ghpvc/?username=your-github-lengocphuongtrinh&style=flat-square&color=blue" alt=""/>
+   </p> 
 </div>
 
 <h1 align="center">
