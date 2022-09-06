@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <a href="mailto:lengocphuongtrinh.ftu2@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white%22%20alt=%22Gmail%20Badge%22/"/>
     </a>
-    <a href="https://lnptchinchin.wixsite.com/chinchin/" target="_blank">
+    <a href="https://lengocphuongtrinh.wixsite.com/lnpt/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </p> 
