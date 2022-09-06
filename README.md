@@ -65,7 +65,7 @@ I am an Enthusiast of Supply Chain, Data Analysis & Storytelling, and Automation
 - :mailbox: Reach out to me 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayleetrinh99/) 
   [![Gmail Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lengocphuongtrinh.ftu2@gmail.com)
-- :blossom: Blog (under construction) [![Blog Badge](https://img.shields.io/badge/-Blog-blue?style=flat&logo=Twitter&logoColor=white)](https://lnptchinchin.wixsite.com/chinchin)
+- :blossom: Blog [![Blog Badge](https://img.shields.io/badge/-Blog-blue?style=flat&logo=Twitter&logoColor=white)](https://lengocphuongtrinh.wixsite.com/lnpt)
 
 ---
 
