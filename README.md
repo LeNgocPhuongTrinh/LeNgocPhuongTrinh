@@ -56,7 +56,7 @@ Welcome 👋
 
 I am an Enthusiast of Supply Chain, Data Analysis & Storytelling, and Automation.
 
-- :tulip: Working as a Supply Planner at CJ Foods Vietnam and contributes to Supply Planning Metrics.
+- :tulip: Working as Data Analytics Solutions at Unilever Vietnam, focusing on Data Analysis, Data Analytics and Automation.
 
 - :maple_leaf: Interest in new and good-looking things
 
