@@ -54,7 +54,7 @@ Welcome 👋
 ### :woman_technologist: About Me:
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
-I’m passionate about the intersection of <b>Artificial Intelligence, Data, and everyday life & business</b> — especially how technology can turn complex data into better, more transparent decisions and smarter ways of working.
+I’m passionate about the intersection of <b>Artificial Intelligence, Data, and everyday life & business</b> - especially how technology can turn complex data into better, more transparent decisions and smarter ways of working.
 
 - :tulip: Experienced in <b>E-commerce & Supply Chain</b>, with professional experience across diverse industries, including <b>Shopee, Unilever, CJ Foods, Avery Dennison, and ITL, spanning manufacturing, e-commerce, and logistics</b>.
 
