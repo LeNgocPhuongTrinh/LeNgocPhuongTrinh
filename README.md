@@ -54,15 +54,15 @@ Welcome 👋
 ### :woman_technologist: About Me:
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
-I’m passionate about the intersection of Artificial Intelligence, Data, and everyday life & business — especially how technology can turn complex data into better, more transparent decisions and smarter ways of working.
+I’m passionate about the intersection of <b>Artificial Intelligence, Data, and everyday life & business</b> — especially how technology can turn complex data into better, more transparent decisions and smarter ways of working.
 
-- :tulip: Experienced in E-commerce & Supply Chain, with professional experience across diverse industries, including Shopee, Unilever, CJ Foods, Avery Dennison, and ITL, spanning manufacturing, e-commerce, and logistics.
+- :tulip: Experienced in <b>E-commerce & Supply Chain</b>, with professional experience across diverse industries, including <b>Shopee, Unilever, CJ Foods, Avery Dennison, and ITL, spanning manufacturing, e-commerce, and logistics</b>.
 
 - :maple_leaf: Interested in AI, Data Science, Data Analytics, Product & Project Management, and Digitalization
 
-- :seedling: Currently pursuing an MSc in Artificial Intelligence at the University of Stirling, UK
+- :seedling: Currently pursuing an <b>MSc in Artificial Intelligence at the University of Stirling, UK</b>
 
-- :earth_asia: ASEAN-UK SAGE Women in STEM Scholar 2026/27
+- :earth_asia: <b>ASEAN-UK SAGE Women in STEM Scholar 2026/27</b>
 
 - :mailbox: Reach out to me 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayleetrinh99/) 
