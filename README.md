@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/kayleetrinh99/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:lengocphuongtrinh.ftu2@gmail.com" target="_blank">
+    <a href="mailto:lnpt.work@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white%22%20alt=%22Gmail%20Badge%22/"/>
     </a>
     <a href="https://lengocphuongtrinh.wixsite.com/lnpt/" target="_blank">
