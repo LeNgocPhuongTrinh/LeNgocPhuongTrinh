@@ -94,5 +94,6 @@ Data Analysis · Python · SQL · Power BI · Power Query · Excel · VBA
 ---
 
 ### :fire: My Stats
+<!--
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lengocphuongtrinh)](https://github.com/stats-organization/github-stats-extended)
-
+-->
