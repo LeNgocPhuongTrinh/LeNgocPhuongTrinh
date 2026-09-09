@@ -67,11 +67,17 @@ I’m passionate about the intersection of <b>Artificial Intelligence, Data, and
 - :mailbox: Reach out to me 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayleetrinh99/) 
   [![Gmail Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lnpt.work@gmail.com)
-- :blossom: Blog [![Blog Badge](https://img.shields.io/badge/-Blog-blue?style=flat&logo=Twitter&logoColor=white)](https://lengocphuongtrinh.wixsite.com/lnpt)
+- :blossom: Blog [![Blog Badge](https://img.shields.io/badge/-Blog-blue?style=flat&logo=Twitter&logoColor=white)](https://lengocphuongtrinh.github.io/)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+- <b>AI</b>
+Artificial Intelligence · Machine Learning · Deep Learning · Generative AI · Intelligent Automation
+
+- <b>Analytics</b>
+Data Analysis · Python · SQL · Power BI · Power Query · Excel · VBA
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
