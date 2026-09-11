@@ -1,99 +1,99 @@
+<img src="assets/identity.svg" width="100%" alt="Hello, I’m Trinh Le. Business → Data → AI. Always a work in progress." />
 
-<!--
-**LeNgocPhuongTrinh/LeNgocPhuongTrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="assets/portrait.webp" width="160" alt="Portrait of Trinh Le" />
 
-Here are some ideas to get you started:
+**MSc Artificial Intelligence @ University of Stirling, UK**<br />
+ASEAN-UK SAGE Women in STEM Scholar 2026/27
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Shopee · Unilever · CJ Foods · Avery Dennison · ITL**<br />
+Experience across e-commerce, FMCG, manufacturing & supply chain
 
-<!-- HEADER -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqgD6bocRHhEjamBPA/giphy.gif" width="100"/>
-</div>
+**Instructor · Data Analysis & Data Science @ CoderSchool**
 
-<div id="badges">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kayleetrinh99/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:lnpt.work@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white%22%20alt=%22Gmail%20Badge%22/"/>
-    </a>
-    <a href="https://lengocphuongtrinh.wixsite.com/lnpt/" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </p> 
-</div>
+[**PORTFOLIO ↗**](https://lengocphuongtrinh.github.io/) &nbsp; / &nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/kayleetrinh99/) &nbsp; / &nbsp; [**EMAIL ↗**](mailto:lnpt.work@gmail.com)
 
-<div id="viewcounter">
-   <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=your-github-lengocphuongtrinh&style=flat-square&color=blue" alt=""/>
-   </p> 
-</div>
+<br clear="all" />
 
-<h1 align="center">
-Welcome 👋
-</h1>
+<img src="assets/fire-edges.gif" width="100%" alt="" />
+<img src="assets/code-forward.gif" width="100%" alt="Moving code: SELECT * FROM curiosity; learn(); build(); contribute(); human × AI." />
 
-<!-- Greeting -->
+## 02 / My journey
 
-<div align="center">
-  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/Mint%20Chocolate%20Chip%20Macarons.jpg" width="1000" height="400"/>
-</div>
+<img align="right" src="assets/mini-trinh.webp" width="180" alt="Mini Trinh running with her laptop and backpack, surrounded by red sparks" />
 
----
+### Same curiosity.<br />A bigger canvas.
 
-### :woman_technologist: About Me:
-<!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
+<img src="icons/vietnam.png" width="18" alt="" /> Vietnam → Business → Data → AI → <img src="icons/united-kingdom.png" width="18" alt="" /> UK → **?**
 
-I’m passionate about the intersection of <b>Artificial Intelligence, Data, and everyday life & business</b> - especially how technology can turn complex data into better, more transparent decisions and smarter ways of working.
+<br clear="all" />
 
-- :tulip: Experienced in <b>E-commerce & Supply Chain</b>, with professional experience across diverse industries, including <b>Shopee, Unilever, CJ Foods, Avery Dennison, and ITL, spanning manufacturing, e-commerce, and logistics</b>.
+<img src="assets/journey.svg" width="100%" alt="A red path connects Vietnam, Business, Data, AI, the UK, and what comes next." />
 
-- :maple_leaf: Interested in AI, Data Science, Data Analytics, Product & Project Management, and Digitalization
+## 03 / Exploring + Building
 
-- :seedling: Currently pursuing an <b>MSc in Artificial Intelligence at the University of Stirling, UK</b>
+Exploring AI projects that can create meaningful impact across society and industry.
 
-- :earth_asia: <b>ASEAN-UK SAGE Women in STEM Scholar 2026/27</b>
+**01 / FEATURED PROJECT**
 
-- :mailbox: Reach out to me 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayleetrinh99/) 
-  [![Gmail Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lnpt.work@gmail.com)
-- :blossom: Blog [![Blog Badge](https://img.shields.io/badge/-Blog-blue?style=flat&logo=Twitter&logoColor=white)](https://lengocphuongtrinh.github.io/)
+### Think With AI · Learning Partner
+
+**Understand Deeper. Not Just Faster.**
+
+An adaptive AI learning experience designed to help learners engage more deeply with concepts rather than simply receive faster answers.
+
+<a href="https://think-with-ai.vercel.app/">
+  <img src="assets/think-with-ai.webp" width="100%" alt="Think With AI: Learning Partner, with adaptive practice, honest grading, misconception tracking, and progress tracking." />
+</a>
+
+`AI` · `Education` · `Personalization`
+
+[**EXPLORE PROJECT ↗**](https://think-with-ai.vercel.app/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+**02 / [OEE Manufacturing ↗](https://github.com/LeNgocPhuongTrinh/dashboard-visualization/tree/7a2c1d8808f39043f4e89bb051f2d37d8f507f27/OEE%20Manufacturing)**<br />
+Trace availability, performance, and quality losses from the plant overview to individual machines.<br />
+`Power BI` · `Data Visualization`
 
-- <b>AI</b>
-Artificial Intelligence · Machine Learning · Deep Learning · Generative AI · Intelligent Automation
+**03 / [Material Requirement Planning ↗](https://github.com/LeNgocPhuongTrinh/python/tree/d80c5a6387380d7ec6ffe036a684d9f324bd0680/Supply%20Planning)**<br />
+Calculate planned order releases with shelf life, minimum order quantities, and materials held across multiple sites.<br />
+`Python` · `Supply Chain`
 
-- <b>Analytics</b>
-Data Analysis · Python · SQL · Power BI · Power Query · Excel · VBA
+<img src="assets/fire-edges.gif" width="100%" alt="" />
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/excel-vba.png" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" title="PowerQuery" alt="PowerQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/vietnam.png"  title="Vietnam" alt="Vietnam" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/united-kingdom.png"  title="English" alt="English" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/LeNgocPhuongTrinh/LeNgocPhuongTrinh/blob/main/icons/china.png" title="Chinese" alt="Chinese" width="40" height="40"/>&nbsp;
-</div>
+## 04 / Skills, in practice.
+
+<a href="https://github.com/LeNgocPhuongTrinh?tab=repositories">
+  <img src="assets/languages.svg" width="640" alt="Most used GitHub languages, measured by bytes in owned public non-fork repositories. Exact counts and snapshot date are available in the linked data below." />
+</a>
+
+<sub>[Language data & snapshot date](assets/languages.json) · Repository composition, not a proficiency score.</sub>
+
+**CODE & DATA**<br />
+Python · SQL · <img src="icons/excel-vba.png" width="18" alt="" /> VBA · HTML · CSS · JavaScript · TypeScript
+
+**ANALYTICS & AI**<br />
+Statistical Analysis · A/B Testing · Data Visualization · Simulation · Forecasting · Machine Learning
+
+**PLATFORMS & BUILDING**<br />
+Azure Cloud · Microsoft Power Platform · Power BI · Power Query · Power Apps · Power Automate · Figma
+
+**PRODUCT & DELIVERY**<br />
+Data-driven Decision Making · Stakeholder Management · Product Management · BPMN · Project Management
+
+**GITHUB ACTIVITY**<br />
+[View my live contribution calendar and recent activity ↗](https://github.com/LeNgocPhuongTrinh#overview)
 
 ---
 
-### :fire: My Stats
-<!--
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lengocphuongtrinh)](https://github.com/stats-organization/github-stats-extended)
--->
+## 05 / Learn. Build. Contribute.
+
+<img align="right" src="assets/fire-spark.gif" width="64" alt="" />
+
+**STILL EXPLORING →**
+
+[**PORTFOLIO ↗**](https://lengocphuongtrinh.github.io/) &nbsp; / &nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/kayleetrinh99/) &nbsp; / &nbsp; [**EMAIL ↗**](mailto:lnpt.work@gmail.com)
+
+<br clear="all" />
+
+<img src="assets/code-reverse.gif" width="100%" alt="Moving code in the opposite direction: explore() → question() → build(); model.fit(ideas, reality); keep(learning)." />

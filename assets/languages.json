@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-09-11",
+  "repository_count": 5,
+  "language_bytes": {
+    "Jupyter Notebook": 6795088,
+    "CSS": 97967,
+    "TypeScript": 60900,
+    "SCSS": 49345,
+    "JavaScript": 25016,
+    "HTML": 991606,
+    "Python": 807
+  }
+}
