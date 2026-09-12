@@ -67,7 +67,7 @@ Calculate planned order releases with shelf life, minimum order quantities, and 
   <img src="assets/languages.svg" width="640" alt="Most used GitHub languages, measured by bytes in owned public non-fork repositories. Exact counts and snapshot date are available in the linked data below." />
 </a>
 
-<sub>[Language data & snapshot date](assets/languages.json) · Repository composition, not a proficiency score.</sub>
+<sub>Actual byte counts from GitHub’s languages API · Public non-fork repositories · [Source data & snapshot date](assets/languages.json)</sub>
 
 **CODE & DATA**<br />
 Python · SQL · <img src="icons/excel-vba.png" width="18" alt="" /> VBA · HTML · CSS · JavaScript · TypeScript

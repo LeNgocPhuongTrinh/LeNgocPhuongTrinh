@@ -39,10 +39,8 @@ def collect_languages() -> tuple[Counter, int]:
 
 def render_chart(totals: Counter, date: str, count: int) -> str:
     total_bytes = sum(totals.values())
-    rows = totals.most_common(6)
-    if len(totals) > 6:
-        rows.append(("Other", sum(value for _, value in totals.most_common()[6:])))
-    height = 105 + 37 * max(len(rows), 1)
+    rows = totals.most_common()
+    height = 105 + 48 * max(len(rows), 1)
     content = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="640" height="{height}" viewBox="0 0 640 {height}">',
         f'<rect width="640" height="{height}" fill="#f7f4ed"/>',
@@ -51,13 +49,14 @@ def render_chart(totals: Counter, date: str, count: int) -> str:
         f'<text x="24" y="55" font-size="11">{count} public non-fork repositories · bytes of code · {date}</text>',
     ]
     for index, (language, value) in enumerate(rows):
-        y = 82 + index * 37
+        y = 82 + index * 48
         percentage = value / total_bytes * 100
         content.extend([
             f'<text x="24" y="{y + 13}" font-size="14">{escape(language)}</text>',
             f'<rect x="210" y="{y}" width="310" height="12" fill="#e5dfd8"/>',
             f'<rect x="210" y="{y}" width="{percentage * 3.1:.2f}" height="12" fill="#d50920"/>',
             f'<text x="605" y="{y + 12}" text-anchor="end" font-size="14">{percentage:.1f}%</text>',
+            f'<text x="605" y="{y + 30}" text-anchor="end" font-size="11">{value:,} bytes</text>',
         ])
     if not total_bytes:
         content.append('<text x="24" y="90" font-size="14">No language bytes reported.</text>')
@@ -68,7 +67,14 @@ def main() -> None:
     totals, count = collect_languages()
     date = datetime.now(timezone.utc).date().isoformat()
     # Fetch everything successfully before replacing the last good snapshot.
-    snapshot = {"as_of": date, "repository_count": count, "language_bytes": dict(totals)}
+    snapshot = {
+        "as_of": date,
+        "source": f"https://api.github.com/users/{USERNAME}/repos",
+        "measurement": "Sum of GitHub languages API byte counts across owned public non-fork repositories",
+        "repository_count": count,
+        "total_bytes": sum(totals.values()),
+        "language_bytes": dict(totals),
+    }
     (ROOT / "assets/languages.svg").write_text(render_chart(totals, date, count), encoding="utf-8")
     (ROOT / "assets/languages.json").write_text(json.dumps(snapshot, indent=2) + "\n", encoding="utf-8")
 

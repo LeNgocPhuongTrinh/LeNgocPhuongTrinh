@@ -1,34 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="364" viewBox="0 0 640 364">
-<rect width="640" height="364" fill="#f7f4ed"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="441" viewBox="0 0 640 441">
+<rect width="640" height="441" fill="#f7f4ed"/>
 <g font-family="monospace" fill="#17191c">
 <text x="24" y="32" font-size="18">MOST USED LANGUAGES</text>
-<text x="24" y="55" font-size="11">5 public non-fork repositories · bytes of code · 2026-09-11</text>
+<text x="24" y="55" font-size="11">5 public non-fork repositories · bytes of code · 2026-09-12</text>
 <text x="24" y="95" font-size="14">Jupyter Notebook</text>
 <rect x="210" y="82" width="310" height="12" fill="#e5dfd8"/>
-<rect x="210" y="82" width="262.63" height="12" fill="#d50920"/>
-<text x="605" y="94" text-anchor="end" font-size="14">84.7%</text>
-<text x="24" y="132" font-size="14">HTML</text>
-<rect x="210" y="119" width="310" height="12" fill="#e5dfd8"/>
-<rect x="210" y="119" width="38.33" height="12" fill="#d50920"/>
-<text x="605" y="131" text-anchor="end" font-size="14">12.4%</text>
-<text x="24" y="169" font-size="14">CSS</text>
-<rect x="210" y="156" width="310" height="12" fill="#e5dfd8"/>
-<rect x="210" y="156" width="3.79" height="12" fill="#d50920"/>
-<text x="605" y="168" text-anchor="end" font-size="14">1.2%</text>
-<text x="24" y="206" font-size="14">TypeScript</text>
-<rect x="210" y="193" width="310" height="12" fill="#e5dfd8"/>
-<rect x="210" y="193" width="2.35" height="12" fill="#d50920"/>
-<text x="605" y="205" text-anchor="end" font-size="14">0.8%</text>
-<text x="24" y="243" font-size="14">SCSS</text>
-<rect x="210" y="230" width="310" height="12" fill="#e5dfd8"/>
-<rect x="210" y="230" width="1.91" height="12" fill="#d50920"/>
-<text x="605" y="242" text-anchor="end" font-size="14">0.6%</text>
-<text x="24" y="280" font-size="14">JavaScript</text>
-<rect x="210" y="267" width="310" height="12" fill="#e5dfd8"/>
-<rect x="210" y="267" width="0.97" height="12" fill="#d50920"/>
-<text x="605" y="279" text-anchor="end" font-size="14">0.3%</text>
-<text x="24" y="317" font-size="14">Other</text>
-<rect x="210" y="304" width="310" height="12" fill="#e5dfd8"/>
-<rect x="210" y="304" width="0.03" height="12" fill="#d50920"/>
-<text x="605" y="316" text-anchor="end" font-size="14">0.0%</text>
+<rect x="210" y="82" width="262.35" height="12" fill="#d50920"/>
+<text x="605" y="94" text-anchor="end" font-size="14">84.6%</text>
+<text x="605" y="112" text-anchor="end" font-size="11">6,795,088 bytes</text>
+<text x="24" y="143" font-size="14">HTML</text>
+<rect x="210" y="130" width="310" height="12" fill="#e5dfd8"/>
+<rect x="210" y="130" width="38.28" height="12" fill="#d50920"/>
+<text x="605" y="142" text-anchor="end" font-size="14">12.3%</text>
+<text x="605" y="160" text-anchor="end" font-size="11">991,606 bytes</text>
+<text x="24" y="191" font-size="14">CSS</text>
+<rect x="210" y="178" width="310" height="12" fill="#e5dfd8"/>
+<rect x="210" y="178" width="3.78" height="12" fill="#d50920"/>
+<text x="605" y="190" text-anchor="end" font-size="14">1.2%</text>
+<text x="605" y="208" text-anchor="end" font-size="11">97,967 bytes</text>
+<text x="24" y="239" font-size="14">TypeScript</text>
+<rect x="210" y="226" width="310" height="12" fill="#e5dfd8"/>
+<rect x="210" y="226" width="2.35" height="12" fill="#d50920"/>
+<text x="605" y="238" text-anchor="end" font-size="14">0.8%</text>
+<text x="605" y="256" text-anchor="end" font-size="11">60,900 bytes</text>
+<text x="24" y="287" font-size="14">SCSS</text>
+<rect x="210" y="274" width="310" height="12" fill="#e5dfd8"/>
+<rect x="210" y="274" width="1.91" height="12" fill="#d50920"/>
+<text x="605" y="286" text-anchor="end" font-size="14">0.6%</text>
+<text x="605" y="304" text-anchor="end" font-size="11">49,345 bytes</text>
+<text x="24" y="335" font-size="14">JavaScript</text>
+<rect x="210" y="322" width="310" height="12" fill="#e5dfd8"/>
+<rect x="210" y="322" width="0.97" height="12" fill="#d50920"/>
+<text x="605" y="334" text-anchor="end" font-size="14">0.3%</text>
+<text x="605" y="352" text-anchor="end" font-size="11">25,016 bytes</text>
+<text x="24" y="383" font-size="14">Python</text>
+<rect x="210" y="370" width="310" height="12" fill="#e5dfd8"/>
+<rect x="210" y="370" width="0.36" height="12" fill="#d50920"/>
+<text x="605" y="382" text-anchor="end" font-size="14">0.1%</text>
+<text x="605" y="400" text-anchor="end" font-size="11">9,356 bytes</text>
 </g></svg>

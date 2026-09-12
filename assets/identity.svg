@@ -2,7 +2,7 @@
 <rect width="960" height="240" fill="#f7f4ed"/>
 <path d="M28 26h42" stroke="#d50920" stroke-width="3"/>
 <text x="28" y="55" font-family="monospace" font-size="14" letter-spacing="4" fill="#17191c">HELLO, I'M</text>
-<text x="25" y="153" font-family="Georgia,serif" font-size="110" font-weight="bold" letter-spacing="-5" fill="#17191c">TRINH LE<tspan fill="#d50920">.</tspan></text>
+<text x="25" y="153" font-family="Georgia,serif" font-size="110" font-weight="bold" letter-spacing="-5" fill="#17191c"><tspan fill="#d50920">TRINH</tspan> LE</text>
 <text x="30" y="211" font-family="Georgia,serif" font-size="42" fill="#d50920">BUSINESS → DATA → AI.</text>
 <text x="932" y="40" text-anchor="end" font-family="monospace" font-size="11" letter-spacing="2" fill="#17191c">ALWAYS A WORK IN PROGRESS</text>
 </svg>

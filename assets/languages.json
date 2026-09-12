@@ -1,13 +1,16 @@
 {
-  "as_of": "2026-09-11",
+  "as_of": "2026-09-12",
+  "source": "https://api.github.com/users/LeNgocPhuongTrinh/repos",
+  "measurement": "Sum of GitHub languages API byte counts across owned public non-fork repositories",
   "repository_count": 5,
+  "total_bytes": 8029278,
   "language_bytes": {
     "Jupyter Notebook": 6795088,
+    "Python": 9356,
     "CSS": 97967,
     "TypeScript": 60900,
     "SCSS": 49345,
     "JavaScript": 25016,
-    "HTML": 991606,
-    "Python": 807
+    "HTML": 991606
   }
 }

@@ -94,7 +94,7 @@ def main() -> None:
 <rect width="960" height="240" fill="{CREAM}"/>
 <path d="M28 26h42" stroke="{RED}" stroke-width="3"/>
 <text x="28" y="55" font-family="monospace" font-size="14" letter-spacing="4" fill="{INK}">HELLO, I'M</text>
-<text x="25" y="153" font-family="Georgia,serif" font-size="110" font-weight="bold" letter-spacing="-5" fill="{INK}">TRINH LE<tspan fill="{RED}">.</tspan></text>
+<text x="25" y="153" font-family="Georgia,serif" font-size="110" font-weight="bold" letter-spacing="-5" fill="{INK}"><tspan fill="{RED}">TRINH</tspan> LE</text>
 <text x="30" y="211" font-family="Georgia,serif" font-size="42" fill="{RED}">BUSINESS → DATA → AI.</text>
 <text x="932" y="40" text-anchor="end" font-family="monospace" font-size="11" letter-spacing="2" fill="{INK}">ALWAYS A WORK IN PROGRESS</text>
 ''')
